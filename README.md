@@ -1,5 +1,6 @@
 # Weather Checker 
-[Link!](https://weather-app-54854.web.app/) 
+[Website Link!](https://weather-app-54854.web.app/) 
+[Project Report](https://docs.google.com/spreadsheets/d/1PAvNmqHqcp_GkuqylEBkIlrXNZ3j9k7gy303NlHnIFc/edit?gid=0#gid=0)
 
 ## Summary
 Weather Checker is a user-friendly web application designed to provide real-time weather updates for cities around the world. Users can securely log in, search for weather information, and access their personalized search history.
